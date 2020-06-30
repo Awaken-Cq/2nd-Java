@@ -1,2 +1,2 @@
 # 2nd-Java
-Learning Java
+Learning java with "This is Java" book 
