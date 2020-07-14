@@ -15,3 +15,5 @@ public class ThreadA extends Thread {
 		System.out.println("ThreadA is terminated");
 	}
 }
+
+
