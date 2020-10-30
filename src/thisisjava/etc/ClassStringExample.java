@@ -21,6 +21,6 @@ public class ClassStringExample {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+		//cnflictTest용 주석
 	}
 }
